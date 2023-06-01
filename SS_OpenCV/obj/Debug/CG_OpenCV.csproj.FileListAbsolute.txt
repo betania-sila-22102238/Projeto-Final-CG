@@ -1,0 +1,53 @@
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csprojResolveAssemblyReference.cache
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.Cache
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\user\OneDrive\Documentos\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\user\OneDrive\Documentos\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\user\OneDrive\Documentos\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\user\OneDrive\Documentos\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documentos\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Documentos\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\user\OneDrive\Documentos\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\user\OneDrive\Documentos\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\user\OneDrive\Documentos\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\user\OneDrive\Documentos\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documentos\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CopyComplete
+C:\Users\user\OneDrive\Documentos\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\user\OneDrive\Documentos\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
+C:\Users\user\Desktop\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\user\Desktop\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\user\Desktop\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\user\Desktop\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\user\Desktop\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\user\Desktop\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\user\Desktop\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\user\Desktop\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CopyComplete
+C:\Users\user\Desktop\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\user\Desktop\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
+C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CopyComplete
+C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
