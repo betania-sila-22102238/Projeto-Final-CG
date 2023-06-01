@@ -399,6 +399,8 @@ namespace CG_OpenCV
 
         //Projeto Final
         /// <summary>
+        /// 
+        /// 
         /// Function that solves the puzzle
         /// </summary>
         /// <param name="img">Input/Output image</param>
