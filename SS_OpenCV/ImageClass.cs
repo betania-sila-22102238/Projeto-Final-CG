@@ -441,6 +441,8 @@ namespace CG_OpenCV
                 for (int y = 0; y < height; y++)
                 {
                     for (int x = 0; x < width; x++)
+
+
                     {
 
                         // calcula endereço do pixel no ponto (x,y)

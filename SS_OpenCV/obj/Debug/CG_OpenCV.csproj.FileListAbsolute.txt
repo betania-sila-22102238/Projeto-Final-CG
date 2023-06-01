@@ -51,3 +51,17 @@ C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_Open
 C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CopyComplete
 C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.exe
 C:\Users\user\Desktop\Lusofona22.23\Computação Gráfica\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
+C:\Users\felip\Source\Repos\Projeto-Final-CG\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\felip\Source\Repos\Projeto-Final-CG\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\felip\Source\Repos\Projeto-Final-CG\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\felip\Source\Repos\Projeto-Final-CG\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.AssemblyReference.cache
+C:\Users\felip\Source\Repos\Projeto-Final-CG\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.SuggestedBindingRedirects.cache
+C:\Users\felip\Source\Repos\Projeto-Final-CG\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\felip\Source\Repos\Projeto-Final-CG\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\felip\Source\Repos\Projeto-Final-CG\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\felip\Source\Repos\Projeto-Final-CG\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\felip\Source\Repos\Projeto-Final-CG\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.cache
+C:\Users\felip\Source\Repos\Projeto-Final-CG\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\felip\Source\Repos\Projeto-Final-CG\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CopyComplete
+C:\Users\felip\Source\Repos\Projeto-Final-CG\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\felip\Source\Repos\Projeto-Final-CG\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
