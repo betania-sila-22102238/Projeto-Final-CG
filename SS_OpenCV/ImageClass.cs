@@ -430,6 +430,8 @@ namespace CG_OpenCV
 
                 Pieces_positions.Add(piece_vector);
 
+
+
                 Pieces_angle = new List<int>();
                 Pieces_angle.Add(0); // angle
 
