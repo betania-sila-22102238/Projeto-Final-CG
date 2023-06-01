@@ -454,12 +454,7 @@ namespace CG_OpenCV
                             (dataPtr + y * widthstep + x * nChan)[1] = 0;
                             (dataPtr + y * widthstep + x * nChan)[2] = 0;
                         }
-                        if (blue == blueBackground && green == greenBackground && red == redBackground)
-                        {
-                            (dataPtr + y * widthstep + x * nChan)[0] = 0;
-                            (dataPtr + y * widthstep + x * nChan)[1] = 0;
-                            (dataPtr + y * widthstep + x * nChan)[2] = 0;
-                        }
+                 
                     }
                 }
 
